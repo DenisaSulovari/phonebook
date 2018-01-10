@@ -1,0 +1,14 @@
+{
+    "name": "dena/phonebook",
+    "description": "This is a phonebook package",
+    "type": "laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "DenisaSulovari",
+            "email": "dena.sulovari@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
